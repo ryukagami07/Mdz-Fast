@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1704864314,
+	"version": 1705921776,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,7 @@
 		"images/ee_car_destroyed-sheet0.png",
 		"images/ee_chigur_car_2-sheet0.png",
 		"images/ee_chigur_car_1-sheet0.png",
+		"images/tiledbackground.png",
 		"images/char-sheet0.png",
 		"images/char-sheet1.png",
 		"images/playerspawn-sheet0.png",
